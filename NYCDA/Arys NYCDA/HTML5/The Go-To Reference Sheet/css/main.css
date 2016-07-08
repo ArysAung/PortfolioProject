@@ -1,0 +1,35 @@
+a {
+	text-decoration:none;
+}
+body{
+	background-color: #eee;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+li{
+	list-style-type:none;
+	display: inline;
+	margin: 5px;
+	padding: 5px;
+}
+
+ul{
+	background-color: gray;
+	max-width: 100%;
+	width: 100%;
+	font-family:"Georgia";
+    padding:3px;
+	height:25px;
+	vertical-align: center;
+	position: fixed;
+}
+
+iframe {
+	align:middle; 
+	width:640px; 
+	height:360px;
+	border:0; 	
+	max-width: 100%;
+}

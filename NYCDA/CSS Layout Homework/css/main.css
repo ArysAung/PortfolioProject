@@ -1,0 +1,30 @@
+nav{
+  position: fixed;
+  background-color: #DC143C;
+  width: 10%;
+  margin: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+  height: 30px;
+  line-height: 1px;
+}
+
+table {
+      background: #aaa;
+      border-collapse: collapse;
+      color: #222;
+      font-family: "Georgia";
+      font-size: 15px;
+      width: 85%;
+      float: right;
+      }
+
+td {
+      border: 3px solid #EDEDED;
+      color: #444;
+      line-height: 22px;
+      text-align: center;
+      padding:5px;
+      background: #fff
+    }
+
